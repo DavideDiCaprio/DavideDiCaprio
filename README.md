@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Davide
+### Hi there, I'm Davide.
 
 <!--
 **DavideDiCaprio/DavideDiCaprio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
